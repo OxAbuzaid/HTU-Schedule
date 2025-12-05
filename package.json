@@ -9,10 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "uuid": "^13.0.0",
-    "react": "^19.2.1",
+    "@supabase/supabase-js": "^2.86.2",
     "lucide-react": "^0.555.0",
+    "react": "^19.2.1",
     "react-dom": "^19.2.1",
+    "uuid": "^13.0.0",
     "xlsx": "0.18.5"
   },
   "devDependencies": {
